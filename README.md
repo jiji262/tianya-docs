@@ -23,6 +23,12 @@
 
 本仓库收集全网爆火的天涯论坛神贴，目前已收集几乎所有神贴，多数为不带水印的原始版本，并且特别收录了地产预言大神kk的全部系列文章。这些帖子是互联网文化的珍贵遗产，记录了中国网络社区发展的黄金时期。
 
+## 下载地址
+
+[Google Drive](https://drive.google.com/drive/folders/1V8NtmQgf02pKWEZv0s8krGbbwNufMsPh?usp=sharing)
+
+**其他网盘会屏蔽，目前无法分享**
+
 > 如果觉得本项目有价值，请给一个 star ⭐️ 支持！
 
 ## 🌟 内容特色
