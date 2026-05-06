@@ -35,17 +35,6 @@
 | **多领域覆盖** | 涵盖金融、社会、灵异、情感、故事、时政等各个领域 |
 | **历史珍藏** | 许多帖子已无法在原论坛找到，具有珍贵的历史价值 |
 
-## 📥 获取方式
-
-由于GitHub存储限制，部分大文件无法全部上传，完整文档可通过以下方式获取：
-
-- **微信索取**：可通过下方群聊联系获取
-- **网盘链接**：在群内获取最新链接（链接可能会不定期更新）
-
-> **注意**：二维码会不定期更新，如果过期请先star该仓库，过几天再来查看。
-
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/c5f7aaeb-b30a-4b10-a5ab-a144054b78c6" />
-
 
 ### 交流群
 
@@ -411,5 +400,3 @@ https://c4l1xfli8z.feishu.cn/docx/X2PedT3AGon4nhxuLrmcwLwgnac
 ---
 
 > **免责声明**：本仓库仅用于资料收集与个人学习，请遵守相关法律法规，尊重原作者版权。
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
