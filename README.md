@@ -392,7 +392,7 @@ https://c4l1xfli8z.feishu.cn/docx/X2PedT3AGon4nhxuLrmcwLwgnac
 
 ### Star 增长历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jiji262/tianya-docs&type=Date)](https://star-history.com/#jiji262/tianya-docs&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=jiji262/tianya-docs&type=Date)](https://star-history.dera.page/#jiji262/tianya-docs&Date)
 
 ## 🤝 贡献与联系
 
